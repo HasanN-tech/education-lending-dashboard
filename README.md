@@ -219,7 +219,7 @@ npm start
 
 Frontend URL:
 
-http://localhost:3000
+http://localhost:5173
 
 ---
 
